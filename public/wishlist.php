@@ -1,3 +1,6 @@
+<?php include '../views/partials/header.php'?>
+
+
 <!-- Pas obligatoire -->
 <style>
 .wishlist
@@ -115,3 +118,5 @@ h2
         </div>
     <?php endforeach ?>
 </div>
+
+<?php include '../views/partials/footer.php' ?>

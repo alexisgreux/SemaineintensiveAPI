@@ -1,6 +1,11 @@
 <?php
 
+<<<<<<< HEAD
 include '../database/database.php';
+=======
+include '../database/database
+
+>>>>>>> 586144addb2e73ca3aad7fb4351723c0a9e63459
 
 /**
  * Routing

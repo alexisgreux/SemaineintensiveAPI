@@ -1,7 +1,7 @@
 <?php
 
-include '../database/database.php';
-include 'wishlist.php';
+include '../database/database
+
 
 /**
  * Routing

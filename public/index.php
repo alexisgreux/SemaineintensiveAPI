@@ -10,7 +10,7 @@ include '../database/database';
  * Routing
  */
 
-define (URL,'http://localhost:8888/semaineIntensiveAPI/public/');
+define ('URL','http://localhost:8888/semaineIntensiveAPI/public/');
 
  //Get q param
  $q = !empty($_GET['q']) ? $_GET['q'] : 'home';

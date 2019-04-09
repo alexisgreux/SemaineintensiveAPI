@@ -5,7 +5,7 @@ define('DB_PORT', '8889');
 define('DB_PASS', 'root');
 
 // to change
-define('DB_NAME', 'partiel');
+define('DB_NAME', 'semaineIntensiveAPI');
 define('DB_USER', 'root');
 
 

@@ -1,17 +1,16 @@
 <?php
 
-<<<<<<< HEAD
-include '../database/database.php';
-=======
-include '../database/database
 
->>>>>>> 586144addb2e73ca3aad7fb4351723c0a9e63459
+include '../database/database.php';
+
+include '../database/database';
+
 
 /**
  * Routing
  */
 
-define ('URL','http://localhost:8888/semaineIntensiveAPI/public/');
+define (URL,'http://localhost:8888/semaineIntensiveAPI/public/');
 
  //Get q param
  $q = !empty($_GET['q']) ? $_GET['q'] : 'home';
